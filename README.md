@@ -3,7 +3,7 @@ Currently building projects with Java, Spring Boot, and React.
 
 Completed Portfolio Projects:
 - secure-web-platform-v2
-- DOP_Request_Form
+- DOP-Request-Form
 
 Ongoing Projects:
 
